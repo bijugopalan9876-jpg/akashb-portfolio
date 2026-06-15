@@ -1,0 +1,50 @@
+=========================================
+AKASH B - RESUME
+Artificial Intelligence & Data Science Engineering Student
+=========================================
+
+CONTACT
+-----------------------------------------
+Email:    akash.b@example.com
+LinkedIn: linkedin.com/in/akash-b-ai
+GitHub:   github.com/akash-b
+Location: Tamil Nadu, India
+
+
+EDUCATION
+-----------------------------------------
+B.E. in Artificial Intelligence & Data Science
+Anna University Affiliated College | 2023 - Present
+
+Higher Secondary School (HSC)
+State Board High School | 2021 - 2023 | Score: 92%
+
+
+TECHNICAL SKILLS
+-----------------------------------------
+* Languages: Python, C, Java, SQL, JavaScript (ES6)
+* AI & Data Science: Machine Learning, Data Preprocessing, Deep Learning, OpenCV, TensorFlow Lite
+* IoT & Hardware: Arduino, Raspberry Pi, RFID technology (RC522), Sensor Integration
+* Web Development: HTML5, CSS3, Responsive Design, Vanilla JS
+
+
+PROJECTS
+-----------------------------------------
+1. Object Detection Car
+   * Designed an autonomous DIY robot car with real-time camera-based obstacle classification.
+   * Technologies: Python, OpenCV, Raspberry Pi, TensorFlow Lite.
+
+2. Smart Garage RFID
+   * Developed a secure smart garage access control model with authentication.
+   * Technologies: C++, Arduino, RC522 RFID, Servo Motors.
+
+3. AI Chatbot
+   * Created a responsive web-based conversation assistant utilizing LLM APIs.
+   * Technologies: JavaScript, Node.js, HTML/CSS, Gemini API.
+
+
+CERTIFICATIONS
+-----------------------------------------
+* Machine Learning Specialization (DeepLearning.AI & Stanford University)
+* Python for Data Science and AI (IBM via Coursera)
+* Introduction to IoT and Embedded Systems (UC Irvine via Coursera)
